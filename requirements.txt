@@ -1,0 +1,4 @@
+fastapi
+pydantic
+mangum
+python-multipart
