@@ -2,3 +2,5 @@ fastapi
 pydantic
 mangum
 python-multipart
+boto3
+Pillow
