@@ -1,0 +1,7 @@
+diffusers[torch]==0.24.0
+transformers
+accelerate
+safetensors
+torch
+Pillow
+controlnet-aux
