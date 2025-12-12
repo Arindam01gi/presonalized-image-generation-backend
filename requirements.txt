@@ -1,6 +1,5 @@
 fastapi
-pydantic
+uvicorn
 mangum
-python-multipart
 boto3
-Pillow
+pydantic-settings
